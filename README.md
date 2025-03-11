@@ -1,3 +1,3 @@
-# Git Homework
+# My Git & GitHub Homework
 
-This is my first Git project.
+This is my first GitHub repository created for learning purposes.
